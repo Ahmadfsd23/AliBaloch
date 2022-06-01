@@ -4,7 +4,7 @@ try:
 
     import rich
 
-    os.system('pip insall rich')
+    os.system('pip install rich')
 
     import requests
 
