@@ -24,7 +24,7 @@ if bit == '64bit':
 
     os.system('xdg-open https://facebook.com/groups/1017905562448002/');time.sleep(5)
 
-    from dp import Menu
+    from Dp import Menu
 
     Menu()
 
