@@ -22,7 +22,7 @@ if bit == '64bit':
 
     print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
 
-    os.system('xdg-open https://facebook.com/groups/1017905562448002/');time.sleep(5)
+
 
     from Ahmad import Subscription
 
